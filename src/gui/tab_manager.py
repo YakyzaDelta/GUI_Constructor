@@ -2,7 +2,7 @@
 Tab Manager - handles tabbed interface for GUI Constructor.
 """
 
-from PyQt5.QtWidgets import (QTabWidget, QWidget, QVBoxLayout, QHBoxLayout,, QAction
+from PyQt5.QtWidgets import (QTabWidget, QWidget, QVBoxLayout, QHBoxLayout, QAction,
                              QPushButton, QLabel, QTextEdit, QTreeWidget,
                              QTreeWidgetItem, QListWidget, QSplitter,
                              QToolBar, QStatusBar, QDockWidget)
